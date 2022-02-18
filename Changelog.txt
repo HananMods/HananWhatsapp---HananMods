@@ -1,1 +1,1 @@
-​{'ver1':'10', 'ver2':'00', 'ver3':' \Added Chat Bubble Change\n Added Card VieW Rows\n Added Status View Toast \n' , 'dli':'https://www.3hsan.com/2021/09/hanan-whatsapp.html'}
+{'ver1':'12', 'ver2':'75', 'ver3':'\n[>> Base ] 2.22.2.73\n[>> Exclusive ] Save to Gallery" option when Media Visibility is turned off!\n[>> Added ] Option to switch translation mode between in-app or GTranslate app\n[>> Fixed ] Anti View Once turning opened randomly\n[ðŸ‘‰ Â¸Fixed ]Widget opens without App lock"\n' , 'dli':'https://www.whatsappmods.net/2018/08/update-gbwhatsapp.html'}
