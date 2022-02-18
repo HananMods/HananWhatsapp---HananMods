@@ -1,1 +1,1 @@
-​{'ver1':'9', 'ver2':'00', 'ver3':' \Added Chat Bubble Change\n Added Card VieW Rows\n Added Status View Toast \n' , 'dli':'https://www.3hsan.com/2021/09/hanan-whatsapp.html'}
+​{'ver1':'5', 'ver2':'00', 'ver3':' \Added Chat Bubble Change\n Added Card VieW Rows\n Added Status View Toast \n' , 'dli':'https://www.3hsan.com/2021/09/hanan-whatsapp.html'}
