@@ -1,1 +1,39 @@
-{'ver1':'8', 'ver2':'00', 'ver3':'\n\n[Base Update ] 2.22.17.76 \nOfficial Base Update From Hanan Mods🇱🇰\Many Exclusive And Features Added Discover By Yourself\n \n' , 'dli':'https://www.hananofficial.com/2022/04/hanan-whatsapp-apk.html?m=1'}
+{'ver1':'8', 'ver2':'00', 'ver3':'\n\n[Base Update ] 2.22.17.76 \nOfficial Base Update From Hanan Mods🇱🇰\n 🚀 Added Option to hide camera icon from home top bar /n
+
+⚙️ Enabled  View Contact Story from home /n
+
+⚙️ Enabled View status from contact info page /n
+
+⚙️ Enabled Create your Avatar (Like bitmoji) for WA /n
+
+⚙️ Enabled Sending caption with documents for all /n 
+
+⚒️ Fixed Hide Typing & Recording privacy not working (now merged) /n
+
+⚒️ Fixed New Attach UI and some entries not opening correct gallery /n
+
+⚒️ Fixed Blank space on side when recording voice note on stock entry style /n
+
+⚒️ Fixed Hide Muted/Recent/Viewed Updates status option /n
+
+⚒️ Fixed Payment icon showing incorrectly in some entries /n
+
+⚒️ Fixed Voice note playing crash on some phones /n
+
+⚒️ Fixed Hidden chats "Forward to" option /n
+
+⚒️ Fixed Conversation Cards (multi chats) option /n
+
+⚒️ Fixed "Copy Select" in chat menu translation error /n
+
+⚒️ Fixed "Copy Caption" in chat menu translation error /n
+
+⚒️ Fixed Some users crash after restore /n
+
+🏷 Improved Status DP ring takes same color as status ring /n
+
+📤 Moved Story Repost option into download box /n
+
+⭕️ Misc Enjoy and discover by yourself!
+
+⭕️ Misc Other fixes and improvementsMany Exclusive And Features Added Discover By Yourself\n \n' , 'dli':'https://www.hananofficial.com/2022/04/hanan-whatsapp-apk.html?m=1'}
